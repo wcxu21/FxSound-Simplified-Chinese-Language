@@ -1,0 +1,218 @@
+JCTRIDX0.
+哎呀！您的播放设备设置有问题。
+在我们开始之前，请通过 
+JCTRIDX1.
+此处的故障排除步骤。
+JCTRIDX2.
+ 如果您仍然遇到问题。
+JCTRIDX3.
+联系我们
+JCTRIDX4.
+系统音频配置错误。无法运行 FxSound
+JCTRIDX5.
+确定
+JCTRIDX6.
+单击此处查看此版本的新功能！
+JCTRIDX7.
+FxSound 在系统托盘中
+单击 FxSound 图标重新打开
+JCTRIDX8.
+感谢您使用 FxSound！
+您是否有兴趣通过快速 4 分钟来帮助我们，
+以便我们可以让 FxSound 变得更好?
+JCTRIDX9.
+参加调查。
+JCTRIDX10.
+不会保存对预设的更改。
+你想退出吗?
+JCTRIDX11.
+不会保存对预设的更改。
+你是否要忽略更改?
+JCTRIDX12.
+输出已断开
+JCTRIDX13.
+输出： 
+JCTRIDX14.
+保存对 %S 预设的更改。
+JCTRIDX15.
+新预设 %S 已保存。
+JCTRIDX16.
+达到新预设的限制。
+JCTRIDX17.
+预设 %S 已删除。
+JCTRIDX18.
+预设恢复为出厂默认设置
+JCTRIDX19.
+导出路径中已存在预设文件 %S ，是否要覆盖预设文件?
+JCTRIDX20.
+FxSound 的 %S。
+JCTRIDX21.
+开启
+JCTRIDX22.
+关闭
+JCTRIDX23.
+预设：%S
+JCTRIDX24.
+清晰度
+JCTRIDX25.
+环境
+JCTRIDX26.
+环绕声
+JCTRIDX27.
+动态增强
+JCTRIDX28.
+低音增强
+JCTRIDX29.
+增强并提升高端
+保真度和临场感
+JCTRIDX30.
+通过受控的混响使音频
+变得更厚实和平滑
+JCTRIDX31.
+扩大左右平衡以获得
+广阔、宽广的声音
+JCTRIDX32.
+通过响应式处理增加
+整体音量和平衡
+JCTRIDX33.
+提升低端以实现全面、
+有影响力的响应
+JCTRIDX34.
+超低音。增加这个以获得更多的隆隆声和“砰砰声”，如果有太多的隆隆声则减少。
+JCTRIDX35.
+低音。增加这个以获得更完整的低端，如果低音听起来很强烈，则减少。
+JCTRIDX36.
+中档低端。增加它可以使人声听起来丰富而温暖，减少它以帮助控制听起来响亮而闷闷的乐器。
+JCTRIDX37.
+中低档。增加它以带出电吉他和人声音量，减少它以减少任何“方形”音调。
+JCTRIDX38.
+中频频段。增加它可以极大地增强节奏乐器和军鼓的打击，减少它可以消除“鼻音”。
+JCTRIDX39.
+中高端。增加它以获得更多的乐器泛音，减少它以改善具有过多“咔哒声”的鼓或具有穿透力的管弦乐器。
+JCTRIDX40.
+高端范围的低端。增加它以获得更多的声音清晰度，减少它并上下移动频率轮以找到并消除过大的“S”和“T”声音。
+JCTRIDX41.
+核心高端范围。增加此值可使您的音频听起来更像是在通风的大空间中，减少它以帮助消除房间噪音和不需要的回声。
+JCTRIDX42.
+人类平均听力的最高范围。增加此值可使您的声音更加清脆，并带有很多泛音。 减少它以消除嘶嘶声或令人痛苦的高声。
+JCTRIDX43.
+此轮允许您调整此 EQ 频段正在向上或向下影响的频率，
+以针对不同的频率/音高。
+上面的 EQ 滑块控制此 EQ 频段的音量。
+增加或减少以提高或降低音频的一部分频率，而不修改其余的声音。
+JCTRIDX44.
+立即订阅
+JCTRIDX45.
+是
+JCTRIDX46.
+否
+JCTRIDX47.
+导出预设
+JCTRIDX48.
+导出
+JCTRIDX49.
+选择要导出的预设...
+JCTRIDX50.
+预设导出成功！
+JCTRIDX51.
+预设成功导入
+JCTRIDX52.
+未导入重复的预设
+JCTRIDX53.
+导入预设
+JCTRIDX54.
+导入
+JCTRIDX55.
+选择包含预设的文件夹...
+JCTRIDX56.
+文件夹：
+JCTRIDX57.
+在所选文件夹中未找到预设文件。
+JCTRIDX58.
+设置
+JCTRIDX59.
+捐赠
+JCTRIDX60.
+常规
+JCTRIDX61.
+帮助
+JCTRIDX62.
+常规首选项
+JCTRIDX63.
+在开机时跟随系统启动
+JCTRIDX64.
+自动切换到新连接的输出设备
+JCTRIDX65.
+隐藏音频控制帮助提示
+JCTRIDX66.
+禁用键盘快捷键
+JCTRIDX67.
+重置预设为默认设置
+JCTRIDX68.
+打开/关闭 FxSound 音效 (Ctrl + Alt + Q)
+JCTRIDX69.
+打开/关闭 FxSound (Ctrl + Alt + E)
+JCTRIDX70.
+更改预设 (Ctrl + Alt + A / D)
+JCTRIDX71.
+更改播放设备 (Ctrl + Alt + W / S)
+JCTRIDX72.
+语言
+JCTRIDX73.
+禁用调试日志记录
+JCTRIDX74.
+版本
+JCTRIDX75.
+支持
+JCTRIDX76.
+维护
+JCTRIDX77.
+更新日志
+JCTRIDX78.
+快速浏览
+JCTRIDX79.
+提交调试日志
+JCTRIDX80.
+帮助中心
+JCTRIDX81.
+反馈
+JCTRIDX82.
+检查更新
+JCTRIDX83.
+打开
+JCTRIDX84.
+退出
+JCTRIDX85.
+音效关闭
+JCTRIDX86.
+音效打开
+JCTRIDX87.
+预设选择
+JCTRIDX88.
+播放设备选择
+JCTRIDX89.
+输入您的预设名称
+JCTRIDX90.
+输入新的预设名称
+JCTRIDX91.
+覆盖现有预设
+JCTRIDX92.
+保存新的预设
+JCTRIDX93.
+撤消预设更改
+JCTRIDX94.
+重命名预设
+JCTRIDX95.
+删除预设
+JCTRIDX96.
+下载 Bonus 预设
+JCTRIDX97.
+FxSound 无法通过选定的输出设备播放处理过的音频。
+另一个应用程序可能正在独占模式下使用它，或者设备可能会断开连接。
+ 要禁用独占模式，请遵循这些
+JCTRIDX98.
+步骤。
+JCTRIDX99.
+单击此处保存新预设、覆盖旧预设或重置您的设置。
+JCTRIDX100.
+设置文件未找到！
